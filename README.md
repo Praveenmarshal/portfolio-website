@@ -75,7 +75,7 @@ The goal is to demonstrate real-world problem-solving using industry-standard to
 
 ## 📎 Live Demo
 
-🔗 [View Project](https://agent-69bff09e215bccdb68a--stellular-lily-009aa1.netlify.app)
+🔗 [View Project](https://agent-69bffe7be3502b08158--serene-meerkat-f538d9.netlify.app)
 
 ---
 
