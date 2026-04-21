@@ -85,6 +85,7 @@ The goal is to demonstrate real-world problem-solving using industry-standard to
 📧 [praveenkicha01@gmail.com](mailto:praveenkicha01@gmail.com)
 🔗 GitHub: https://github.com/Praveenmarshal
 🔗 LinkedIn: https://www.linkedin.com/in/praveen-kannan-6862382a2
+⊙  https://praveen-marshal-ffe540.netlify.app/
 
 ---
 
